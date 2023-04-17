@@ -24,3 +24,11 @@ who were targets of a marketing campaign; 42 982 persons (rows) x 367
 * `Udacity_MAILOUT_052018_TEST.csv`: Demographics data for individuals
 who were targets of a marketing campaign; 42 833 persons (rows) x 366
 (columns).
+
+### Libraries Used 
+
+* Numpy
+* Matplotlib
+* Pandas
+* Seaborn
+* Sklearn (StandardScaler, KMeans, PCA etc.)
